@@ -58,7 +58,7 @@ model = AutoModel.from_pretrained('nickrwu/roberta-mqa')
 | Random Chance       | 0.333       | 0.200       | 1.000       | 0.200       |
 | Human Base (n=25)   | 0.747       | 0.596       | 1.000       | 0.596       |
 
-The fine-tuning process yielded substantial improvements in model performance metrics. The RoBERTa base model exhibited significant gains, starting with baseline metrics of 0.163 for F1-score. Further fine-tuning this model on the MathQA dataset elevated the F1-score and accuracy to 0.558. This represents a remarkable 250% increase in the F1-score from the base RoBERTa model, highlighting the effectiveness of our targeted modifications.
+The fine-tuning process yielded substantial improvements in model performance metrics. The RoBERTa base model exhibited significant gains, starting with baseline metrics of 0.163 for F1-score. Further fine-tuning this model on the MathQA dataset elevated the **F1-score** and **accuracy** to **0.56**. This represents a remarkable **250% increase** in the F1-score from the base RoBERTa model, highlighting the effectiveness of our targeted modifications.
 
 ## Conclusion
 The significant improvements observed in the machine learning model’s performance metrics following our interventions can be attributed to a deliberate strategy aimed at overcoming its initial shortcomings in dealing with the MathQA dataset’s inherent complexity. Enhancements in data preprocessing—aimed at better capturing the intricacies of mathematical statements and options—and a more tailored training regimen, focusing on targeted parameter tuning and efficient resource utilization, have collectively elevated the model's understanding and problem-solving capabilities. These strategic adjustments have led to better performance metrics, reinforcing the efficacy of our approach.
@@ -67,5 +67,5 @@ The significant improvements observed in the machine learning model’s performa
 **Contributors:** Thanks to the project team members who contributed to data preparation, model training, and evaluation.
 
 **Resources:** 
-* High Performance Computing resources provided by New York University
-* Open-source tools from Hugging Face and Weights & Biases
+* [High Performance Computing](https://sites.google.com/nyu.edu/nyu-hpc/home?authuser=0) resources provided by New York University
+* Open-source tools from [Hugging Face](https://huggingface.co/) and [Weights & Biases](https://wandb.ai/)
