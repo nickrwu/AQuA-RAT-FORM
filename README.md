@@ -1,7 +1,8 @@
 # Enhancing Mathematical Reasoning in LLMs: Fine-Tuning for Math Word Problem
 
-[**Research Paper**](https://drive.google.com/file/d/1k0v51RtDxmZboesr6D3V342qeq2ymymW/view?usp=sharing)
-[**Slide Deck**](https://drive.google.com/file/d/1tCkOXH20rnPX5XnESAzb3vpvXuapaxkk/view?usp=sharing)
+### [**Research Paper**](https://drive.google.com/file/d/1k0v51RtDxmZboesr6D3V342qeq2ymymW/view?usp=sharing)
+
+### [**Slide Deck**](https://drive.google.com/file/d/1tCkOXH20rnPX5XnESAzb3vpvXuapaxkk/view?usp=sharing)
 
 ## Table of Contents
 1. [Introduction](#introduction)
